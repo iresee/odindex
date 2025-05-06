@@ -1,3 +1,27 @@
+修改 Build command 为 pnpm build
+
+修改 Install command 为 pnpm install
+
+环境变量：
+REDIS_URL
+Upstash链接类似redis://:xxx...@some-thing-like-35533.upstash.io:35533
+
+NEXT_PUBLIC_USER_PRINCIPLE_NAME
+
+你的邮箱
+
+BASE_DIRECTORY
+
+你分享的文件路径
+
+TITLE_NAME
+
+网站的名称
+
+
+
+
+
 <div align="center">
   <img src="./public/header.png" alt="onedrive-vercel-index" />
   <h3><a href="https://drive.swo.moe">onedrive-vercel-index</a></h3>
